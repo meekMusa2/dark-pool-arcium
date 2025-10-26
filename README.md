@@ -179,7 +179,7 @@ npm start
 ## 🎬 Demo
 
 ### Live Application
-dark-pool-arcium.vercel.app
+[dark-pool-arcium](dark-pool-arcium.vercel.app)
 
 ### Video Walkthrough
 [[demo](https://youtu.be/wsrbMi7tF6E)]
