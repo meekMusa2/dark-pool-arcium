@@ -18,9 +18,6 @@ https://explorer.solana.com/address/4kK1X4Dnxomgn858uCGvkfRtZhYd71r439hhz1ueNpF6
 `match_single_order` - Encrypted order matching function  
 Location: `arcium-mpc/dark_pool_matching/build/match_single_order.arcis`
 
-**GitHub Repository:**  
-[GitHub link]
-
 **Live Demo:**  
 [dark-pool-arcium.vercel.app]
 
@@ -31,20 +28,6 @@ Location: `arcium-mpc/dark_pool_matching/build/match_single_order.arcis`
 [quadrimusa84@gmail.com]
 
 ---
-
-## 📋 Submission Checklist
-
-- [x] Functional Solana project deployed to devnet
-- [x] Real Arcium integration (not simulated)
-- [x] Clear explanation of privacy benefits
-- [x] Complete documentation (README + TECHNICAL.md)
-- [x] Working code with comments
-- [x] Repository submitted through Superteam Earn
-- [ ] Demo video (3 minutes) - **TO DO**
-- [x] GitHub access granted (if private)
-
----
-
 ## 🎯 Arcium Integration Details
 
 ### How Arcium is Used
