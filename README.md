@@ -182,7 +182,7 @@ npm start
 dark-pool-arcium.vercel.app
 
 ### Video Walkthrough
-[demo]
+[[demo](https://youtu.be/wsrbMi7tF6E)]
 
 ### Test on Devnet
 1. Connect Phantom wallet (set to Devnet)
